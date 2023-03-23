@@ -1,5 +1,12 @@
-### Hi there 👋
+### <h2> Hello I'm Simone Caporale
 
+  - 🍝 Italian Soul 🟢⚪🔴
+  - 🧒 Born in 1981
+  - 🖥️ Software developer
+  - 👨‍💻 Tecnology Enthusiast
+  - 💾 Retrocomputing Lover
+  
+  
 <!--
 **caporalesimone/caporalesimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
