@@ -5,7 +5,9 @@
   - 🖥️ Software developer
   - 👨‍💻 Tecnology Enthusiast
   - 💾 Retrocomputing Lover
-   
+
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=caporalesimone&show_icons=true">
+  
   ### 🎓 My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=azure,c,cpp,cs,java,maven,linux,bash,git,github,githubactions,docker,visualstudio,vscode,arduino,raspberrypi&perline=5)](https://hersel.it)
