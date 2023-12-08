@@ -1,6 +1,6 @@
 ### <h2> Hello I'm Simone Caporale
 
-  - 🍝 Italian Soul 🟢⚪🔴
+  - 🍝 Italian 🟢⚪🔴
   - 🧒 Born in 1981
   - 🖥️ Software developer
   - 👨‍💻 Tecnology Enthusiast
