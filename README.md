@@ -6,7 +6,7 @@
   - 👨‍💻 Tecnology Enthusiast
   - 💾 Retrocomputing Lover
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=caporalesimone&show_icons=true">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=caporalesimone&show_icons=true&theme=radical">
   
 ### 🎓 My skills:
 
