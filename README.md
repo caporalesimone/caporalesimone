@@ -12,7 +12,6 @@
 </div>
 
 <br>
-<br>
 
 ### 🎓 My Skills:
 
