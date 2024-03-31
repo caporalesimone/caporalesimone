@@ -1,7 +1,7 @@
 ### <h2> Hello I'm Simone Caporale
 <div class="clearfix">
   <table style="border-collapse: collapse;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=caporalesimone&show_icons=true&theme=radical">  
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=caporalesimone&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   </table>
   
   - 🍝 Italian 🟢⚪🔴
@@ -11,6 +11,9 @@
   - 💾 Retrocomputing Lover
 </div>
 
+<br>
+<br>
+<br>
 <br>
 
 ### 🎓 My Skills:
