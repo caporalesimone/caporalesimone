@@ -16,7 +16,7 @@
 ### 🎓 My Skills:
 
 <div class="clearfix">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caporalesimone&size_weight=0.5&count_weight=0.5&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caporalesimone&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact">
 
 <table style="border-collapse: collapse;">
   <tr>
